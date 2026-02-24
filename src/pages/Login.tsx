@@ -35,7 +35,7 @@ const Login = () => {
             <Book className="h-10 w-10 text-forest-500 mr-2" />
             <span className="text-3xl font-bold logo-text">Druid</span>
           </div>
-          <CardTitle className="text-2xl">Welcome back</CardTitle>
+          <CardTitle className="text-2xl">Welcome back here</CardTitle>
           <CardDescription>
             Login to access your learning insights
           </CardDescription>
