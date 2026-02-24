@@ -4,7 +4,8 @@ import axios, { AxiosResponse, AxiosError, AxiosRequestConfig } from "axios";
 
 // Base URL from the Postman collection
 const API_BASE_URL =
-  "http://localhost:8000/";
+  "https://druid-production.up.railway.app/";
+//   "http://localhost:8000/";
   // "http://ac5a69a19fced4eb28258d1c65ad6249-2b9c28116275af4b.elb.eu-west-1.amazonaws.com/";
 // "http://a9b0b240dfca44171930862fbd75d67e-76ccfa1469ee44ae.elb.eu-west-1.amazonaws.com/";
 
